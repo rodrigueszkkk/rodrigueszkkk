@@ -14,6 +14,14 @@ Tenho foco em **desenvolvimento web**, com interesse em **Backend, Frontend e Fu
 
 ---
 
+## 📊 GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueszkkk&layout=compact&theme=dark" />
+</div>
+
+---
+
 ## ⭐ Projeto em Destaque
 
 ### 🚀 AuraQuest
@@ -32,12 +40,6 @@ Plataforma web desenvolvida com foco em evolução pessoal e bem-estar, incentiv
 
 ---
 
-## 📊 GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueszkkk\&layout=compact\&theme=dark)
-
----
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
@@ -49,8 +51,6 @@ Plataforma web desenvolvida com foco em evolução pessoal e bem-estar, incentiv
 </div>
 
 ---
-
-## 📫 Contato
 
 <div> 
   <a href = "mailto:kaikyauthentic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
