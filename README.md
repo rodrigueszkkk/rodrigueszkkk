@@ -3,15 +3,9 @@
 Sou **Desenvolvedor em formação**, cursando **Análise e Desenvolvimento de Sistemas** na FIAP.
 Tenho foco em **desenvolvimento web**, com interesse em **Backend, Frontend e Fullstack**, buscando sempre escrever código limpo, funcional e bem estruturado.
 
----
-
-## 📊 GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueszkkk&layout=compact&theme=dark" />
 </div>
-
----
 
 ## ⭐ Projeto em Destaque
 
