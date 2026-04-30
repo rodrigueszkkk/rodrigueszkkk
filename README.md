@@ -19,7 +19,7 @@ Plataforma web desenvolvida com foco em evolução pessoal e bem-estar, incentiv
 
 🔗 **Links:**
 
-* [Repositório](https://github.com/Liga-dos-Viloes/AuraQuest)
+* [AuraQuest](https://github.com/Liga-dos-Viloes/AuraQuest)
 * [Vercel](https://aura-quest.vercel.app/)
 
 <div align="center">
